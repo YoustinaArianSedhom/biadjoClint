@@ -1,0 +1,437 @@
+{
+"app_name": "بيادجو للسائقين ", 
+
+"navigation_drawer_open" :"Open navigation drawer" , 
+
+"navigation_drawer_close" : "Close navigation drawer",
+
+"action_settings" : "Settings",
+
+"PowredBy":"تصميم وتنفيذ شركة بوكامور للبرمجيات و الأنظمة المعلوماتية ©" , 
+
+"GoogleAPIKey":"AIzaSyAoTlXgH1pKuHPcbZsrIijQV0T_Tr926UE " ,
+
+"notification_text": "العودة لبيادجو",
+
+"service_started":"Biadjo Service Started",
+
+"app_description":"تطبيق بيادجو للسائقين يتيح الفرصة للسائقيين لتلقي طلبات النقل والتوصيل وتلبيتها من خلال التطبيق.",
+
+"stop_service":"Stop Service " ,
+
+"channel_name":"Biadjo Driver Notifications",
+
+"channel_description":"Application Status Notification.",
+
+"channel_name2":"Biadjo Server Notifications ", 
+
+"channel_description2":"Received Notifications From Biadjo Server.",
+
+"launch_activity":"Launch activity",
+
+"location_unknown":"Location unknown " ,
+
+"location_updates_label":"Location Updates",
+
+"permission_rationale":"Location permission is needed for core functionality ", 
+
+"permission_denied_explanation":"Permission was denied, but is needed for core functionality.",
+
+"settings":"Settings",
+
+"request_location_updates":"Request location updates " ,
+
+"remove_location_updates":"Remove location updates",
+
+"location_updated":"Location Updated: %1$s " ,
+
+"U1":"كجم",
+
+"U2":"طن",
+
+"U3":"لتر",
+
+"P1":"المحفظة",
+
+"P2":"نقدي",
+
+"P3":"بطاقة إئتمانية " ,
+
+"P4":"حوالة مصرفية " ,
+
+"T1":"خصم رصيد " ,
+
+"T2":"إضافة رصيد " ,
+
+"T3":"إيداع مصرفي " ,
+
+"T4":"خصم",
+
+"driverpaymentstatus":"حالة السداد للسائق:",
+
+"connecting":"جاري الإتصال بالخدمة...",
+
+"connected":"تم الإتصال بالخدمة... " ,
+
+"notconnected":"غير متصل بالخدمة...",
+
+"noconnection":"لا يوجد إتصال بخدمة الإنترنت! " ,
+
+"pleaseconnect":"لا يوجد إتصال بخدمة الإنترنت، الرجاء الإتصال بخدمة الإنترنت لإستخدام تطبيق بيادجو.",
+
+"servererror":"حدث خطاء أتناء الإتصال بالخادم! " ,
+
+"servicenotavalible":"نأسف الخدمة غير متاحة حاليا لأسباب فنية الرجاء إعادة المحاولة في وقت لاحق",
+
+"notcoonectedtoservice":"أنت غير متصل بالخدمة! ", 
+
+"uploaderror":"حدث خطاء أثناء تحميل المستند الرجاء إعادة المحاولة مرة أخرى.",
+
+"uploadallerror":"الرجاء تحميل كافة المستندات المطلوبة للإستمرار",
+
+"docuploaded":"تم تحميل هذا المستند مسبقا! " ,
+
+"emailupdatesuccess":"تم تعديل البريد الإلكتروني بنجاح.",
+
+"wrongemail":"البريد الإلكتروني الذي أدخلته غير صحيح! " ,
+
+"writephone":"الرجاء كتابة رقم الهاتف النقال!",
+
+"wrongphone":"الرجاء كتابة رقم الهاتف النقال الصحيح!",
+
+"phoneupdatesuccess":"تم تعديل الهاتف بنجاح.",
+
+"vehicalupdatesuccess":"تم تعديل نوع السيارة بنجاح.",
+
+"writepassword":"الرجاء كتابة الرمز السري! " ,
+
+"enteremail":"الرجاء إدخال البريد الإلكتروني الخاص بك:",
+
+"email":"البريد الإلكتروني: " ,
+
+"emailerror":"البريد الإلكتروني غير صحيح! " ,
+
+"passworderror":"الرمز السري خطاء!",
+
+"passwordsuccess":"تم إعادة تعيين الرمز السري بنجاح.",
+
+"passwordcondetion":"الرجاء كتابة الرمز السري على أن يتكون من 4 أرقام على الأقل! " ,
+
+"repassword":"الرجاء إعادة كتابة الرمز السري! " ,
+
+"repassworderror":"الرمز السري لا يساوي الإعادة! " ,
+
+"phoneerror":"رقم الهاتف خطاء!",
+
+"verfiyphoneerror":"رقم الهاتف الذي أدخلته غير صحيح، الرجاء العودة للنافذة السابقة وإدخال رقم الهاتف الصحيح",
+
+"locationerror":"لم نتمكن من تحديد موقعك! ", 
+
+"directionerror":"لا يمكن الحصول على الاتجاهات يرجى المحاولة مرة أخرى! " ,
+
+"registrationerror":"حدث خطاء أتناء التسجيل، الرجاءإعادة المحاولة! " ,
+
+"registrederror":"تم تسجيل الحساب مسبقا.! " ,
+
+"registrationsuccess":"تم تسجيلكم بنجاح",
+
+"callus":"اتصل بنا",
+
+"cancel":"إلغاء",
+
+"select":"إختار",
+
+"returns":"رجوع",
+
+"close":"إغلاق",
+
+"accept":"قبول",
+
+"deny":"رفض",
+
+"yes":"نعم",
+
+"no":"لا",
+
+"ok":"ًحسنا",
+
+"confirm": "تأكيد",
+
+"send": "إرسال",
+
+"save": "حفظ",
+
+"btnpay" : "دفع",
+
+"MessageBoxTitle":"تنبيه",
+
+"MessageBoxMessage_BS4":"هل أنت متأكد من أنك تريد بداء البيادجو؟",
+
+"MessageBoxMessage_BS5":"هل أنت متأكد من أنك وصلت للعميل؟ " ,
+
+"MessageBoxMessage_BS6":"هل أنت متأكد من أنك تريد إنهاء البيادجو؟",
+
+"MessageBoxMessage_Schedual":" لا يمكنك بدء الرحلة الآن ، يمكنك بدء الرحلة قبل وقت الرحلة المجدول بساعتين!",
+
+"warning" : "تحدير",
+
+"deletecardmessage":"هل أنت متأكد من أنك تريد حدف طريقة الدفع؟ " ,
+
+"deletedcardmessage":"تم حدف طريقة الدفع.",
+
+"ServiceNotAvailableTitle":"رسالة " ,
+
+"ServiceNotAvailableMessage":"نأسف الخدمة غير متاحة حاليا في بلدك! " ,
+
+"createpaymentmethodsuccess":"تم إضافة طريقة الدفع بنجاح.",
+
+"createpaymentmethodfailed":"فشل عملية إضافة طريقة الدفع.",
+
+"priceinputtitle":"الرجاء إدخال سعر البيادجو: " ,
+
+"textview_info_AC":"يمكنك تعديل بعض البيانات بالضغط عليها: " ,
+
+"startbiadjo":"بدء البيادجو",
+
+"viewonmap":"عرض على الخريطة",
+
+"callcustomer":"الإتصال بالعميل " ,
+
+"textview_info_BRH":"يمكنك إختيار طلب البيادجو بالضغط عليه: " ,
+
+"textview_info_TH":"يمكنك إختيار البيادجو بالضغط عليه: " ,
+
+"editenametitle":"يرجى الاتصال بنا لتعديل الإسم " ,
+
+"biadjorequests":"طلبات بيادجو",
+
+"tripslog":"سجل الرحلات " ,
+
+"messages":"الرسائل " ,
+
+"financialtransactions":"المعاملات المالية " ,
+
+"selectvehicle":"الرجاء إختيار نوع السيارة:",
+
+"txtnewemail":"البريد الإلكتروني الجديد: " ,
+
+"btncontinue":"إستمرار " ,
+
+"enterphonenumber":"الرجاء إدخال رقم هاتفك النقال:",
+
+"phonenumber":"رقم الهاتف:",
+
+"usedphonenumber":"رقم الهاتف المدخل مستخدم في حساب أخر! " ,
+
+"value":"القيمة: " ,
+
+"balance":"الرصيد:",
+
+"addbalance":"إضافة رصيد " ,
+
+"balanceinput":"الرصيد",
+
+"balanceerror":"قيمة الرصيد يجب أن تكون أكبر من 0! " ,
+
+"AddPayoutAccount":"إضافة حساب بنكي لإستلام الأجور",
+
+"paymentmethode":"طريقة الدفع:",
+
+"paymentstatus":"حالة الدفع: " ,
+
+"transactiontype":"نوع المعاملة:",
+
+"biadjono":"رقم البيادجو: " ,
+
+"date":"التاريخ:",
+
+"vehicletype":"نوع السيارة: " ,
+
+"vehicleoptions":"خيارات السيارة الإضافية: " ,
+
+"status":"الحالة:",
+
+"password":"الرمز السري: " ,
+
+"forgotpassword":"نسيت كلمة المرور؟",
+"newpassword":"الرمز السري:",
+
+"renewpassword":"إعادة الرمز السري: " ,
+
+"login":"تسجيل الدخول",
+
+"subscribe":"الإشتراك في خدمة بيادجو",
+
+"price":"السعر",
+
+"pleasewait":"الرجاء الإنتظار...",
+
+"sendoffer":"إرسال العرض " ,
+
+"retry":"إعادة الإرسال " ,
+
+"entername":"الرجاء إدخال الإسم واللقب:",
+
+"firstname":"الإسم: " ,
+
+"lastname":"اللقب: " ,
+
+"enterfirstname":"الرجاء كتابة الإسم!",
+
+"enterlastname":"الرجاء كتابة اللقب! " ,
+
+"textverficationcode":"الرجاء إدخال رمز التأكيد الذي تم إرساله إليك: ", 
+
+"verficationcode":"رمز التأكيد: ", 
+
+"verficationcodeerror":"رمز التأكيد غير صحيح!",
+
+"documents":"المستندات " ,
+
+"documentstext":"الرجاء تحميل كل المستندات المطلوبة: " ,
+
+"myaccount":"حسابي",
+
+"wallet":"المحفظة",
+
+"support":"الدعم الفني",
+
+"help":"المساعدة " ,
+
+"about":"حول التطبيق",
+
+"shareapp":"شارك التطبيق",
+
+"rateapp":"قيم التطبيق",
+
+"logout":"تسجيل الخروج " ,
+
+"exitapp":"إغلاق التطبيق " ,
+
+"bsftitelname":"يرجى الاتصال بنا لتعديل الإسم " ,
+
+"bsftitelcar":"يرجى الاتصال بنا لتعديل معلومات السيارة ", 
+
+"bsftitelcartype":"يرجى الاتصال بنا لتعديل نوع السيارة " ,
+
+"bsftitellicenseplate":"يرجى الاتصال بنا لتعديل رقم اللوحة المعدنية",
+
+"autoupdatemessage":"يتم تحديث موقع الخدمة تلقائيا. ", 
+
+"btnstartbiadjo":"البدء في البيادجو",
+
+"btnarrived":"وصلت للعميل",
+
+"btnfinish":"إنهاء البيادجو",
+
+"loadtype":"نوع الحمولة: " ,
+
+"loaddescription":"وصف الحمولة:",
+
+"loadweight":"وزن الحمولة: " ,
+
+"leatersquantity":"عدد اللترات:",
+
+"nooftrips":"عدد الرحلات المطلوبة:",
+
+"startpoint":"نقطة البداية: " ,
+
+"endpoint":"نقطة النهاية:",
+
+"startpoint_t":"نقطة البداية",
+
+"endpoint_t":"نقطة النهاية",
+
+"currentlocation":"موقعك الحالي",
+
+"tripdistance":"مسافة الرحلة: " ,
+
+"tripduration":"مدة الرحلة:",
+
+"customerdistance":"المسافة للعميل: " ,
+
+"customerduration":"زمن الوصول للعميل: " ,
+
+"speed":"السرعة = " ,
+
+"priceerror":"سعر الرحلة يجب أن يكون أكبر من صفر! " ,
+
+"offersuccess":"تم إرسال العرض بنجاح.",
+
+"ChooseSource":"إختيار المصدر " ,
+
+"inservice":"في الخدمة",
+
+"outofservice":"خارج الخدمة " ,
+
+"uinservice":"أنت في الخدمة الأن! " ,
+
+"uoutofservice":"أنت خارج الخدمة الأن!",
+
+"accountnotactive":"نأسف حسابكم غير مفعل، عليه لايمكنكم الدخول في الخدمة! " ,
+
+"successfulpayment":"تم الدفع بنجاح",
+
+"failedpayment":"فشل عملية الدفع",
+
+"recieptno":"رقم الإيصال: " ,
+
+"transactionid":"رقم المعاملة:",
+
+"transactionresult":"نتيجة المعاملة: " ,
+
+"savedpaymentmethodes":"طرق الدفع المحفوظة: " ,
+
+"addpaymentmethod":"إضافة طريقة دفع",
+
+"FullNameorCompanyName":"الإسم بالكامل أو إسم الشركة:",
+
+"BankName":"إسم البنك: " ,
+
+"BranchName":"إسم الفرع:",
+
+"AccountNumber":"رقم الحساب البنكي:",
+
+"SWIFT":"رمز السويفت (SWIFT):",
+
+"BankAddress":"عنوان البنك: " ,
+
+"City":"المدينة: " ,
+
+"State":"المحافظة أو الولاية:",
+
+"ZipCode":"الرمز البريدي:",
+
+"BankAccountInfoMessage":"الرجاء إدخال معلومات حسابك البنكي لإستلام الأجور مقابل الرحلات: " ,
+
+"BankAccountInfoErroMessage":"الرجاء إدخال كافة البيانات!",
+
+"SaveErroMessage":"تم حفظ البيانات بنجاح.",
+
+"drivernobalanceerror" :"نأسف لا يمكنك إرسال عرض مالي لهذا البيادجو لأن رصيدك الحالي أقل من القيمة المسموح بها لحسابك، الرجاء إضافة رصيد لحسابك لتتمكن من إجراء رحلات أو الإتصال بالدعم الفني.",
+
+"offeraccepted":"تم قبول العرض ", 
+
+"offeracceptedmessage":"تم قبول العرض المرسل من قبلك لبيادجو رقم: ",
+
+"offeracceptedmessage2":"، الرجاء بداء البيادجو والإتصال بالعميل. " ,
+
+"newbiadjorequest": "طلب بيادجو جديد",
+
+"newbiadjorequestmessage":"تم وصول طلب بيادجو جديد تحت رقم:" ,
+
+"newbiadjorequestmessage2":"، الرجاء إرسال عرضك المالي. " ,
+
+"notification":"تنبيه",
+
+"outofservicewarning":"أنت خارج الخدمة الأن، هل ترغب بالدخول في الخدمة لإستقبال طلبات بيادجو؟",
+
+"outofservicewarning2":"في حالة خروجك من الخدمة لن تتمكن من إستقبال طلبات بيادجو!، هل ترغب في الخروج من الخدمة؟",
+
+"tripschedual":"موعد البيادجو:",
+
+"eventdiscription":"تم إنشاء هذا الحدث من قبل تطبيق بيادجو للسائقين لجدولة موعد الرحلة. ",
+
+"logoutmessage":"هل أنت متأكد من أنك تريد تسجيل الخروج؟" 
+
+}

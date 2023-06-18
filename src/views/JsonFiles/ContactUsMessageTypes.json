@@ -1,0 +1,22 @@
+[
+  {
+    "Code": "MT1",
+    "Value": "Review"
+  },
+  {
+    "Code": "MT2",
+    "Value": "Suggestions"
+  },
+  {
+    "Code": "MT3",
+    "Value": "Technical Support"
+  },
+  {
+    "Code": "MT4",
+    "Value": "Sales Inquery"
+  },
+  {
+    "Code": "MT5",
+    "Value": "Complain"
+  }
+]

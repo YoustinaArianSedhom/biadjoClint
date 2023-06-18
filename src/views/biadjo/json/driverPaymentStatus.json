@@ -1,0 +1,5 @@
+[
+    { "Code": "DPS1", "Value": "مدفوع" },
+    { "Code": "DPS2", "Value": "غير مدفوع" },
+    { "Code": "DPS3", "Value": "محجوز" }
+]

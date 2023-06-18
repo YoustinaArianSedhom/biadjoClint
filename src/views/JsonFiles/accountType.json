@@ -1,0 +1,5 @@
+[
+  { "Code": "AT0", "Value": "Individual" },
+  { "Code": "AT1", "Value": "Admin" },
+  { "Code": "AT2", "Value": "Employee" }
+]

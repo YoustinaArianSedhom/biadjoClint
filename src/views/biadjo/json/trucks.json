@@ -1,0 +1,142 @@
+[
+  {
+    "Name": "OpenBedTruck",
+    "Description": "OpenTruckSized",
+    "VehiclesTypes": [
+      {
+        "name": "TT23",
+        "image": "tt_open_light.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT23.png",
+        "VehicleType": "TT23"
+      },
+      {
+        "name": "LightSize",
+        "image": "tt_open_light.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT1.png",
+        "VehicleType": "TT1"
+      },
+
+      {
+        "name": "MediumSize",
+        "image": "tt_open_medium.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT2.png",
+        "dumpTruck": "TT2_1.png",
+        "VehicleOption": "TO0",
+        "VehicleType": "TT2"
+      },
+      {
+        "name": "HeavySize",
+        "image": "tt_open_heavy.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT3.png",
+        "dumpTruck": "TT3_1.png",
+        "VehicleOption": "TO0",
+        "VehicleType": "TT3"
+      },
+      {
+        "name": "TrailerSize",
+        "image": "tt_open_trailer.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT4.png",
+        "dumpTruck": "TT4_1.png",
+        "VehicleOption": "TO0",
+        "VehicleType": "TT4"
+      },
+      {
+        "name": "SemiSize",
+        "image": "tt_open_semi_trailer.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT5.png",
+        "VehicleType": "TT5"
+      },
+      {
+        "name": "FlatbedSize",
+        "image": "tt_special_flatbed.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT6.png",
+        "VehicleType": "TT6"
+      }
+    ]
+  },
+  {
+    "Name": "ClosedBoxTruck",
+    "Description": "ClosedTruckSizes",
+    "VehiclesTypes": [
+      {
+        "name": "TT24",
+        "image": "tt_box_light.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT24.png",
+        "VehicleType": "TT24"
+      },
+      {
+        "name": "LightSize",
+        "image": "tt_box_light.png",
+
+        "icon": "mdi mdi-contact",
+        "realImage": "TT7.png",
+        "VehicleType": "TT7"
+      },
+      {
+        "name": "MediumSize",
+        "image": "tt_box_medium.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT8.png",
+        "VehicleType": "TT8"
+      },
+      {
+        "name": "HeavySize",
+        "image": "tt_box_heavy.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT9.png",
+        "VehicleType": "TT9"
+      },
+
+      {
+        "name": "SemiSize",
+        "image": "tt_box_semi_trailer.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT10.png",
+        "VehicleType": "TT10"
+      }
+    ]
+  },
+  {
+    "Name": "RefrigeratorTruck",
+    "Description": "RefrigeratedSizes",
+    "VehiclesTypes": [
+      {
+        "name": "LightSize",
+        "image": "tt_refrigerated_light.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT11.png",
+        "VehicleType": "TT11"
+      },
+      {
+        "name": "MediumSize",
+        "image": "tt_refrigerated_medium.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT12.png",
+        "VehicleType": "TT12"
+      },
+      {
+        "name": "HeavySize",
+        "image": "tt_refrigerated_heavy.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT13.png",
+        "VehicleType": "TT13"
+      },
+
+      {
+        "name": "SemiSize",
+        "image": "tt_refrigerated_semi_trailer.png",
+        "icon": "mdi mdi-contact",
+        "realImage": "TT14.png",
+        "VehicleType": "TT14"
+      }
+    ]
+  }
+]
